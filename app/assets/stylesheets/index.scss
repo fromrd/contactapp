@@ -1,0 +1,88 @@
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+.menu {
+
+    background-color: #F08080;
+    color: white;
+}
+
+.menu li {
+    padding: 2% 10%;
+    font-size: 1.5rem;
+}
+
+header {
+    background-color: #F5B4B3;
+    height: 54px;
+}
+
+header p {
+    float: left;
+    padding: 10px;
+    color: white;
+    display: block;
+    font-size: 2rem;
+}
+
+img {
+    margin: 10px 20px 0px 20px;
+}
+
+h1 {
+    padding-bottom: 5px;
+}
+
+.label-default {
+    font-size: 2rem;
+}
+
+.detail {
+    padding-top: 10px;
+}
+
+.contact_name {
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.contact_label {
+    position: relative;
+    margin-right: 5px;
+}
+
+.contact_form {
+    width: 40%;
+    position: relative;
+}
+
+footer {
+    width: 100%;
+    background-color: #A97443;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}
+
+footer p {
+    padding: 20px;
+}
+
+html {
+    min-height: 100%;
+}
+
+body{
+    margin: 0 auto;
+    text-align:center;
+}
+
+.container {
+    margin-top: 5px;
+}
